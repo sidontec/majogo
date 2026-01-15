@@ -3664,3 +3664,9 @@ ol {
 		width: 100%;
 	}
 }
+
+.hero-overlay {
+  background: rgba(0, 0, 0, 0.6); /* black transparent */
+  padding: 60px 40px;
+  border-radius: 6px; /* optional */
+}
